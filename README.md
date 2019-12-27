@@ -1,1 +1,2 @@
 #tianyu-shequ-ios
+IJKMediaFramework.framework文件夹下需要自行下载一个IJKMediaFramework执行文件
